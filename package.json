@@ -1,0 +1,14 @@
+{
+  "name": "information-site",
+  "version": "1.0.0",
+  "description": "Basic informational site created using Node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Billy",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
